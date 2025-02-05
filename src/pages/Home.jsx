@@ -7,11 +7,11 @@ const Home = ({data,deleteProduct}) => {
       <table className="table table-bordered table-stripted">
         <thead>
             <tr>
-                <td>id</td>
-                <td>title</td>
-                <td>price</td>
-                <td>description</td>
-                <td>acction</td>
+                <th>id</th>
+                <th>title</th>
+                <th>price</th>
+                <th>description</th>
+                <th>acction</th>
             </tr>
         </thead>
         <tbody>

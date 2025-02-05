@@ -45,13 +45,13 @@ function App() {
 					<Link to="/">Home</Link>
 				</li>
 				<li>
-					<Link to="/product-add">them san pham</Link>
+					<Link to="/product-add">Product Add</Link>
 				</li>
 				<li>
-					<Link to="/login">dang nhap</Link>
+					<Link to="/login">Login</Link>
 				</li>
 				<li>
-					<Link to="/register">dang ki</Link>
+					<Link to="/register">Register</Link>
 				</li>
 			</ul>
 		</header>
